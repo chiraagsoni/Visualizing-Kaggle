@@ -1,4 +1,4 @@
-🩺 ETL Pipeline with Python & Pandas – Health & Lifestyle Dataset
+yourusernameTL Pipeline with Python & Pandas – Health & Lifestyle Dataset
 
 This project demonstrates a complete ETL (Extract, Transform, Load) pipeline using Python and the Pandas library. The dataset is sourced from Kaggle and focuses on various health and lifestyle metrics. The notebook walks through data extraction, transformation, cleaning, and exploratory visualization — providing a practical example of how raw data can be processed into meaningful insights.
 
@@ -51,7 +51,7 @@ Seaborn
 
 Clone this repository:
 
-git clone https://github.com/yourusername/ETL_Health_Lifestyle.git
+git clone https://github.com/chiraagsoni/ETL_Health_Lifestyle.git
 cd ETL_Health_Lifestyle
 
 Open the Jupyter Notebook:
